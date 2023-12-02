@@ -49,3 +49,29 @@ function getDistanceBetweenPoints(x1, y1, x2, y2) {
 ```
 
 ---
+
+### Work Experience:
+
+From August 2021 to now work in Auto Transport Chicago as a dispatcher
+
+From 2018 till 2020 I have experience in markup page layout in freelancing.  
+Also I'm really looking forward to the opportunity to work with the team!
+
+---
+
+### Education:
+
+Graduated from ONPU(Odessa National Polytechnic University) in 2019,  
+obtained qualification: Bachelor Degree,  
+field of study 'System Engineering'
+
+Graduated from Ovidiopol Lyceum named after T. Shevchenko in 2015,  
+obtained qualification: upper secondary education,  
+field of study 'Ьathematics'
+
+---
+
+### English Language:
+
+**B2 - Upper-Intermediate**  
+Have experience communicating in English from 2021, work as a dispatcher in the USA
