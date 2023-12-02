@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://chebannich.github.io/rsschool-cv/cv
