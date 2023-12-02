@@ -74,4 +74,4 @@ field of study 'Ьathematics'
 ### English Language:
 
 **B2 - Upper-Intermediate**  
-Have experience communicating in English from 2021, work as a dispatcher in the USA
+Have experience communicating in English from 2021, work as a dispatcher in the USA.
