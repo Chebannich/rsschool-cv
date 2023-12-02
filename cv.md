@@ -21,3 +21,31 @@ I am a fast learner, sociable, creative, proactive
 From 2021 to now I work as a dispatcher in a US trucking company
 
 ---
+
+### Skills:
+
+-  Soft Skills
+   -  Communication
+   -  Creative
+   -  Adaptive
+   -  Initiative
+-  Hard Skills
+   -  HTML5
+      -  CSS3
+   -  JS
+   -  GIT
+
+---
+
+### Code Examples:
+
+```javascript
+function getDistanceBetweenPoints(x1, y1, x2, y2) {
+   const a = Math.abs(x1) + Math.abs(x2)
+   const b = Math.abs(y1) + Math.abs(y2)
+
+   return Math.sqrt(a ** 2 + b ** 2)
+}
+```
+
+---
