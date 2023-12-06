@@ -31,7 +31,7 @@ From 2021 to now I work as a dispatcher in a US trucking company
    -  Initiative
 -  Hard Skills
    -  HTML5
-      -  CSS3
+   -  CSS3
    -  JS
    -  GIT
 
