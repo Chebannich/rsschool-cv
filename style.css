@@ -101,7 +101,7 @@ h6 {
 .sm-line {
   background-color: #147b49;
   height: 2px;
-  width: 120px;
+  width: 1280px;
   border-radius: 1px;
 
   margin: 15px 0;
@@ -123,7 +123,7 @@ h2 {
 .line {
   background-color: #147b49;
   height: 8px;
-  width: 75%;
+  width: 1280px;
   border-radius: 4px;
 
   margin: 0 auto;
