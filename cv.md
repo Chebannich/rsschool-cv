@@ -112,6 +112,6 @@ Focused on creating a user-friendly interface and smooth user experience.
 
 
 ## Languages
-Ukrainian (Native)
-Russian (Native)
-English (Advanced – C1)
++ Ukrainian (Native)
++ Russian (Native)
++ English (Advanced – C1)
